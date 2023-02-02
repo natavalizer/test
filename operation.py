@@ -16,6 +16,6 @@ def calculate(number_1, number_2):
         print('Такой операции нет:')
 
 
-number_1 = int(input('Введите  число: '))
-number_2 = int(input('Введите  число: '))
+number_1 = int(input('Введите число: '))
+number_2 = int(input('Введите число: '))
 calculate(number_1, number_2)
